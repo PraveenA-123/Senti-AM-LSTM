@@ -52,4 +52,4 @@ Senti_AM_LSTM_tool/
 - The command-line tool can then be run using `senti-am-lstm`.
 - The models and scalers must be placed inside the `models/` folder.
 
-This setup ensures that the tool loads models automatically from the `models/` folder, and users only need to specify the input and output files when running the script from the command line. Let me know if you need any further adjustments!
+This setup ensures that the tool loads models automatically from the `models/` folder, and users only need to specify the input and output files when running the script from the command line. 
