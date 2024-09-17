@@ -1,4 +1,3 @@
-```markdown
 # Senti-AM-LSTM
 
 SENTI-AM-LSTM: A novel sentiment-enhanced attention-based LSTM model for agricultural futures price prediction.
@@ -9,7 +8,7 @@ SENTI-AM-LSTM: A novel sentiment-enhanced attention-based LSTM model for agricul
    ```bash
    git clone https://github.com/your-repo/senti-am-lstm-tool.git
    cd senti-am-lstm-tool
-   ```
+
 
 2. Install the package locally:
    ```bash
