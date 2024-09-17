@@ -1,0 +1,8 @@
+pandas
+openpyxl
+tensorflow
+scikit-learn
+vaderSentiment
+textblob
+numpy
+joblib

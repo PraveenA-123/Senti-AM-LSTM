@@ -1,0 +1,2 @@
+[console_scripts]
+senti-am-lstm = senti_am_lstm_tool.predict_price:main
